@@ -161,7 +161,6 @@ export default function Box() {
   const models = [
     { url: "/Astronaut-transformed.glb", scale: 0.3, floating: true },
     { url: "/FlightHelmet/glTF/FlightHelmet.gltf", scale: 2, floating: false },
-    { url: "/Stork.glb", scale: 1, floating: false },
   ];
 
   return (
